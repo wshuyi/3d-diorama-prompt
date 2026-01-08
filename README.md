@@ -1,5 +1,7 @@
 # 3D Cartoon Diorama Prompt
 
+[中文说明](README_CN.md)
+
 Transform any image into a beautiful 3D cartoon miniature diorama style.
 
 ## Environment
@@ -37,6 +39,3 @@ This prompt is designed for use in **[Google Antigravity](https://antigravity.go
 - **Describe style only** - Don't describe content in the prompt
 - **Preserve features** - Explicitly request keeping original characteristics
 
----
-
-[中文说明](README_CN.md)
