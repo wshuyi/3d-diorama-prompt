@@ -9,6 +9,7 @@ Transform any image into a beautiful 3D cartoon miniature diorama style.
 This prompt is designed for use in **[Google Antigravity](https://antigravity.google/)**.
 
 **Recommended Setup:**
+
 - Model: **Claude Opus 4.5**
 - Image Generation: **Nano Banana Pro** (automatically invoked by Claude)
 
@@ -22,7 +23,7 @@ This prompt is designed for use in **[Google Antigravity](https://antigravity.go
 ## Style Specifications
 
 | Item | Specification |
-|------|---------------|
+| ------ | --------------- |
 | Render Style | Cinema 4D / Blender |
 | Scene Type | Miniature Diorama |
 | View Angle | 45° Isometric |
@@ -38,4 +39,3 @@ This prompt is designed for use in **[Google Antigravity](https://antigravity.go
 - **Pass the original image** - Let AI see the image directly
 - **Describe style only** - Don't describe content in the prompt
 - **Preserve features** - Explicitly request keeping original characteristics
-

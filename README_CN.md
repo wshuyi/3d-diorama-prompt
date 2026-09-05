@@ -7,6 +7,7 @@
 本提示词设计用于 **[Google Antigravity](https://antigravity.google/)**。
 
 **推荐配置：**
+
 - 模型：**Claude Opus 4.5**
 - 图像生成：**Nano Banana Pro**（Claude 会自动调用）
 
@@ -20,7 +21,7 @@
 ## 风格规格
 
 | 项目 | 规格 |
-|------|------|
+| ------ | ------ |
 | 渲染风格 | Cinema 4D / Blender |
 | 场景类型 | 微缩立体透视模型 (Diorama) |
 | 视角 | 45° 等距俯视 |
