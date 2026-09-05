@@ -19,12 +19,14 @@
 搜索并获取一张包含目标内容的图片：
 
 **选图标准**：
+
 - ✅ 包含多个主角（更有故事性）
 - ✅ 角色清晰可辨
 - ✅ 有动态感的场景
 - ❌ 不需要高清，只要内容清晰即可
 
 **获取方式**：
+
 - Google图片搜索 → 点击预览 → 截图
 - 或直接使用已有的参考图
 
@@ -32,7 +34,7 @@
 
 使用图像生成工具，传入原图，**只描述风格，不描述内容**：
 
-```
+```text
 Transform this into a 3D cartoon diorama.
 Cinema 4D style, miniature scene on wooden display base,
 45-degree isometric view, smooth rounded 3D modeling,
@@ -55,7 +57,7 @@ Title "{标题}" at top center.
 ## 风格规格
 
 | 项目 | 规格 |
-|------|------|
+| ------ | ------ |
 | 渲染风格 | Cinema 4D / Blender |
 | 场景类型 | 微缩立体透视模型 (Diorama) |
 | 视角 | 45° 等距俯视 |

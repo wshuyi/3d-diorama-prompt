@@ -1,0 +1,11 @@
+{
+  "name": "3D Diorama Prompt",
+  "install": "npm install",
+  "terminals": [
+    {
+      "name": "docs-preview",
+      "command": "npm run preview"
+    }
+  ],
+  "ports": [8080]
+}
